@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
-const token = 'Njc1Nzk0MDI2MDAzMTY5MzAx.Xj9WGA.NjVa6tKF56mQUgUZQzcysJjyVNU';
+const token = 'TOKEN';
 const prefix = '.';
 var servers = {};
 
